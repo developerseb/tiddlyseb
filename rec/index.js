@@ -2,7 +2,7 @@
     // Client ID and API key from the Developer Console
 // https://console.cloud.google.com/apis/api/drive.googleapis.com/credentials?project=tiddlydrive-438714
     var CLIENT_ID = '515091421041-sqvplabab68ral9tbs5igmaqho1uq476.apps.googleusercontent.com';
-    var API_KEY = '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';
+    var API_KEY = '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'; // disabled in the console (can be re-enabled)
 
     // Array of API discovery doc URLs for APIs used by the quickstart
     var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
