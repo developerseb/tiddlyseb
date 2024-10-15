@@ -1,5 +1,6 @@
 (function() {
     // Client ID and API key from the Developer Console
+// https://console.cloud.google.com/apis/api/drive.googleapis.com/credentials?project=tiddlydrive-438714
     var CLIENT_ID = '515091421041-sqvplabab68ral9tbs5igmaqho1uq476.apps.googleusercontent.com';
     var API_KEY = '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';
 
