@@ -53,6 +53,7 @@
             // Handle the initial sign-in state.
             updateSigninStatus(gapi.auth2.getAuthInstance().isSignedIn.get());
         });
+	    console.log(CLIENT_ID);
     }
 
     /**
