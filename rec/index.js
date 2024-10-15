@@ -128,6 +128,7 @@
             setupSaver();
             $('#loader').hide();
         }).catch(function(err) {
+		console.log(err);
             $('#loader').hide();
             $('#error-msg').show();
         });
